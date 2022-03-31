@@ -1,0 +1,15 @@
+{
+  "dados_extras":
+    [
+      {
+        "desc_receita":"SMS TOTVS SERIE T"
+      },
+      {
+          "desc_receita": ["SMS TOTVS SERIE T", "SMS FLUIG"]
+      },
+      {
+          "desc_receita":"SMS TOTVS SERIE T",
+      }
+
+    ]
+}
